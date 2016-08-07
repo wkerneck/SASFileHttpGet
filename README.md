@@ -232,7 +232,10 @@ Now that you have the "final_testscores.xlsx" file on your desktop you can now u
 
 #### View Excel File                                                 
 
-To download and view the excel file click on the icon. [![click Here](images/excel.png)](https://github.com/wkerneck/SASFileGetHttp/blob/master/data/final_testscores.xlsx?raw=true)
+To download and view the merged excel file click on the icon. [![click Here](images/excel.png)](https://github.com/wkerneck/SASFileHttpGet/blob/master/data/final_testscores.xlsx?raw=true)
 
+****************************
 
+#### View SAS Code 
 
+To download and view the SAS commands click on the icon. [![click Here](images/sas.png)](https://github.com/wkerneck/SASFileHttpGet/blob/master/SAS/sas_commands.txt?raw=true)
