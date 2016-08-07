@@ -8,7 +8,7 @@ August 7, 2016
 
 #### Assignment:
 
-The orginal assignment was to pull in datasets from various classmates Github accounts using the SAS proc http method="get" command. Since SMU has locked down the security settings of the university edition of SAS the proc http method="get" command will not work. The new assignment is now to go to each of the classmates github accounts and download the datasets to your hard drive. Using SAS command import the files, merged and clean the data. In the end you a accessible excel file containing all the merged filed uploaded to your Github account.
+The orginal assignment was to pull in datasets from various classmates Github accounts using the SAS proc http method="get" command. Since SMU has locked down the security settings of the university edition of SAS so the proc http method="get" command will not work. The new assignment is now to go to each of the classmates github accounts and download the datasets to your hard drive. Using SAS commands to import the files, merged and clean the data. In the end you wil have a one excel file containing all the merged dataset. The excel file will reside on your Github account.
 
 
 1. Download data to desktop from various classmates Github accounts.
